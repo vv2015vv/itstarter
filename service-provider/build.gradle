@@ -1,0 +1,6 @@
+dependencies {
+    compile project(":service-api")
+    compile project(":service-base")
+    compile project(":service-proxy")
+    compile project(":service-validate")
+}

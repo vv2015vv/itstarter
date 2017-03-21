@@ -1,0 +1,17 @@
+rootProject.name = 'itstarter-service'
+
+include 'service-api'
+include 'service-base'
+include 'service-provider'
+include 'service-proxy'
+include 'service-validate'
+
+
+include 'service-app'
+
+include 'service-web'
+
+include 'service-job-api'
+
+include 'service-job-provider'
+
